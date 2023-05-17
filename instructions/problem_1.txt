@@ -1,0 +1,2 @@
+hadoop jar PosTaggingPairs.jar wiki output_wiki
+hadoop jar PosTaggingStripes.jar wiki output_wiki

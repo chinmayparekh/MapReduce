@@ -1,0 +1,2 @@
+hadoop jar DocFreq.jar wiki output_wiki -skippatterns stopwords.txt
+hadoop jar TFIDF.jar wiki output_wiki -skippatterns stopwords.txt
